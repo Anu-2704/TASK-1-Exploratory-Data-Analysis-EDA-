@@ -1,4 +1,4 @@
-# Task 2 — Exploratory Data Analysis (EDA)
+# Task 1 — Exploratory Data Analysis (EDA)
 
 ## Overview
 This task performs a structured Exploratory Data Analysis on the **Amazon Product Reviews** dataset (`amazon_reviews.csv`). The goal is to understand the data structure, detect patterns and anomalies, test hypotheses, and surface issues before any modelling work.
